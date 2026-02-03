@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T17:53:01.340021+08:00",
-  "total_titles_processed": 1262,
+  "generated_at": "2026-02-03T18:51:07.637152+08:00",
+  "total_titles_processed": 1368,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 41,
       "titles": [
         {
           "title": "美媒：欧洲领导人曾熬夜开会，制定应对特朗普的“作战手册”",
@@ -27,8 +27,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时49分 ~ 17时53分]"
+          "appearance_count": 5,
+          "time_info": "[16时49分 ~ 18时51分]"
+        },
+        {
+          "title": "特朗普：莫迪同意停购俄油，美印达成贸易协议，将降低印度关税",
+          "url": "https://wallstreetcn.com/articles/3764775",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时01分 ~ 18时51分]"
         },
         {
           "title": "特朗普：美印达成贸易协议 印度同意停购俄油+5000亿商品采购",
@@ -42,6 +55,30 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时41分 ~ 15时02分]"
+        },
+        {
+          "title": "中方回应特朗普让中国参与军控谈判",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A9%E4%B8%AD%E5%9B%BD%E5%8F%82%E4%B8%8E%E5%86%9B%E6%8E%A7%E8%B0%88%E5%88%A4",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时49分 ~ 18时51分]"
+        },
+        {
+          "title": "特朗普谈美伊谈判：希望能达成协议，否则会有糟糕的事",
+          "url": "https://news.ifeng.com/c/8qRnEtgNGZK",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时50分 ~ 18时51分]"
         },
         {
           "title": "特朗普称美印达成贸易协议 Waymo估值超千亿美元 | 环球市场",
@@ -90,18 +127,6 @@
           "time_info": "01时48分"
         },
         {
-          "title": "中方回应特朗普让中国参与军控谈判",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A9%E4%B8%AD%E5%9B%BD%E5%8F%82%E4%B8%8E%E5%86%9B%E6%8E%A7%E8%B0%88%E5%88%A4",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时49分 ~ 17时53分]"
-        },
-        {
           "title": "特朗普称美印达成贸易协议，对印关税下调至 18%，这场交易背后各有哪些算计？会带来什么影响？",
           "url": "https://www.zhihu.com/question/2001948735127643511",
           "source": "知乎",
@@ -113,18 +138,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时52分 ~ 15时02分]"
-        },
-        {
-          "title": "特朗普：莫迪同意停购俄油，美印达成贸易协议，将降低印度关税",
-          "url": "https://wallstreetcn.com/articles/3764775",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时01分 ~ 17时53分]"
         },
         {
           "title": "特朗普威胁要向哈佛大学索赔10亿美元",
@@ -151,13 +164,24 @@
           "time_info": "[00时51分 ~ 01时48分]"
         },
         {
+          "title": "特朗普怒斥格莱美主持人诽谤",
+          "url": "https://www.toutiao.com/trending/7602432337137303562/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时50分 ~ 18时51分]"
+        },
+        {
           "title": "克里姆林宫：（回应特朗普有关印度将停止购买俄罗斯石油的言论）我们与印度的战略伙伴关系至关重要。",
           "url": "https://flash.jin10.com/detail/20260203174035758800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
         },
@@ -292,6 +316,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-03）",
+          "url": "https://flash.jin10.com/detail/20260203180904102800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
         },
         {
           "title": "美国总统特朗普撤销向哈佛大学索要2亿美元的要求。（纽约时报）",
@@ -440,8 +475,22 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋 AI AI AGNET",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
+        {
+          "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
+          "url": "https://wallstreetcn.com/articles/3764779",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时41分 ~ 18时51分]"
+        },
         {
           "title": "剑指太空数据中心！马斯克旗下SpaceX确认与xAI合并",
           "url": "https://www.cls.cn/detail/2278467",
@@ -457,20 +506,6 @@
           "time_info": "[10时41分 ~ 16时49分]"
         },
         {
-          "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
-          "url": "https://wallstreetcn.com/articles/3764779",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时41分 ~ 17时53分]"
-        },
-        {
           "title": "又一“AI宠儿”诞生？一年飙升超17倍后 华尔街预计闪迪还能涨50%",
           "url": "https://www.cls.cn/detail/2278753",
           "source": "财联社热门",
@@ -481,8 +516,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时56分 ~ 17时53分]"
+          "appearance_count": 8,
+          "time_info": "[13时56分 ~ 18时51分]"
+        },
+        {
+          "title": "解读SpaceX收购xAI",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBSpaceX%E6%94%B6%E8%B4%ADxAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时52分 ~ 18时51分]"
         },
         {
           "title": "SpaceX官宣收购xAI",
@@ -495,17 +541,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时41分 ~ 15时02分]"
-        },
-        {
-          "title": "解读SpaceX收购xAI",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBSpaceX%E6%94%B6%E8%B4%ADxAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时52分 ~ 17时53分]"
         },
         {
           "title": "元宝红包建群“根本停不下来” 千问投30亿发起攻势 大厂春节AI战升级",
@@ -536,6 +571,19 @@
           "time_info": "[10时41分 ~ 16时49分]"
         },
         {
+          "title": "王楚然工作室AI剧宣",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%B7%A5%E4%BD%9C%E5%AE%A4AI%E5%89%A7%E5%AE%A3%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时49分 ~ 18时51分]"
+        },
+        {
           "title": "SpaceX 收购人工智能企业 xAI，合并估值达 1.25 万亿美元，同为马斯克旗下公司，如何解读？",
           "url": "https://www.zhihu.com/question/2001947312226848988",
           "source": "知乎",
@@ -547,6 +595,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时52分 ~ 15时02分]"
+        },
+        {
+          "title": "春节为何成为AI红包主战场",
+          "url": "https://search.bilibili.com/all?keyword=%E6%98%A5%E8%8A%82%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BAAI%E7%BA%A2%E5%8C%85%E4%B8%BB%E6%88%98%E5%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时52分 ~ 18时51分]"
         },
         {
           "title": "又一位AI亿万富豪诞生了",
@@ -590,21 +650,22 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
         },
         {
-          "title": "王楚然工作室AI剧宣",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%B7%A5%E4%BD%9C%E5%AE%A4AI%E5%89%A7%E5%AE%A3%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
+          "title": "DeepSeek问世一周年，大模型改变了商业银行吗？营销降本效果显著，更多作用仍需观察",
+          "url": "https://www.cls.cn/detail/2278690",
+          "source": "财联社热门",
           "ranks": [
+            13,
             6,
-            4
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时49分 ~ 17时53分]"
+          "appearance_count": 5,
+          "time_info": "[16时49分 ~ 18时51分]"
         },
         {
           "title": "两会对话｜如何不做AI时代的文盲？如何防止“AI说胡话”？黄海清委员这样建议",
@@ -619,38 +680,16 @@
           "time_info": "[00时51分 ~ 07时36分]"
         },
         {
-          "title": "DeepSeek问世一周年，大模型改变了商业银行吗？营销降本效果显著，更多作用仍需观察",
-          "url": "https://www.cls.cn/detail/2278690",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时49分 ~ 17时53分]"
-        },
-        {
-          "title": "春节为何成为AI红包主战场",
-          "url": "https://search.bilibili.com/all?keyword=%E6%98%A5%E8%8A%82%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BAAI%E7%BA%A2%E5%8C%85%E4%B8%BB%E6%88%98%E5%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时52分 ~ 17时53分]"
-        },
-        {
           "title": "【焦点复盘】市场盘中再现深V反转，全市场超120股涨逾10%，AI软硬件双双回暖",
           "url": "https://www.cls.cn/detail/2279188",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时52分 ~ 17时53分]"
+          "appearance_count": 4,
+          "time_info": "[17时52分 ~ 18时51分]"
         },
         {
           "title": "AI 社交平台 Moltbook 火了，多张截图疑有猫腻，有多少炒作成分？对行业的实际影响有多大？",
@@ -752,6 +791,17 @@
           "time_info": "10时41分"
         },
         {
+          "title": "汇丰：AI投资收益更利好股票而非信贷",
+          "url": "https://flash.jin10.com/detail/20260203181313892800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
           "title": "OpenAI将重点放在ChatGPT的研发上，而非进行更长期的研究，这导致公司高层人员离职。",
           "url": "https://flash.jin10.com/detail/20260203130436001800",
           "source": "金十数据",
@@ -821,7 +871,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "美伊或开启核谈判，伊朗释放双重信号",
@@ -859,6 +909,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时51分 ~ 07时36分]"
+        },
+        {
+          "title": "以色列对美国与伊朗谈判提“三不”强硬要求",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32520089",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时01分 ~ 18时51分]"
         },
         {
           "title": "伊朗否认收到美“最后通牒”，总统下令启动核谈判",
@@ -929,19 +993,6 @@
           "time_info": "07时36分"
         },
         {
-          "title": "以色列对美国与伊朗谈判提“三不”强硬要求",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32520089",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时01分 ~ 17时53分]"
-        },
-        {
           "title": "伊朗总统已下令与美开展核问题专项谈判，有何考量？此次外交行动会打破僵局吗？",
           "url": "https://www.zhihu.com/question/2001732629960081618",
           "source": "知乎",
@@ -1009,7 +1060,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
         },
@@ -1031,9 +1082,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
+        },
+        {
+          "title": "伊朗重大让步！川普“航母外交”奏效了？丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260203182007876800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
+          "title": "卡塔尔外交部发言人：（就伊朗问题表示）为确保局势降级，地区合作与持续努力正在进行中。",
+          "url": "https://flash.jin10.com/detail/20260203181952367800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
         },
         {
           "title": "伊朗外交部就伊美接触明确立场：解除制裁是核心诉求",
@@ -1113,6 +1186,17 @@
           "time_info": "15时02分"
         },
         {
+          "title": "桥水基金创始人达利欧：伊朗政权更迭将使中东地区更具投资价值。",
+          "url": "https://flash.jin10.com/detail/20260203180103471800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
           "title": "阿联酋总统外交顾问表示，伊朗需要达成协议。",
           "url": "https://flash.jin10.com/detail/20260203141533913800",
           "source": "金十数据",
@@ -1137,8 +1221,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时41分 ~ 17时53分]"
+          "appearance_count": 11,
+          "time_info": "[10时41分 ~ 18时51分]"
         },
         {
           "title": "美股收盘：标普低开高走迫近新高 存储板块又迎热钱流入",
@@ -1153,6 +1237,18 @@
           "time_info": "[07时36分 ~ 15时02分]"
         },
         {
+          "title": "大反弹！白银涨11%，黄金涨6%，纳指期货涨超0.5%，存储板块美股盘前走高，欧股集体高开，韩股大涨6%",
+          "url": "https://wallstreetcn.com/articles/3764793",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时52分 ~ 18时51分]"
+        },
+        {
           "title": "商品暴跌震动市场！美股指集体低开，纳指跌0.4%，甲骨文逆势涨4%，现货金银“V”型反转，布油跌5%",
           "url": "https://wallstreetcn.com/articles/3764730",
           "source": "华尔街见闻",
@@ -1162,17 +1258,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时51分 ~ 01时48分]"
-        },
-        {
-          "title": "大反弹！白银涨11%，黄金涨6%，纳指期货涨超0.5%，存储板块美股盘前走高，欧股集体高开，韩股大涨6%",
-          "url": "https://wallstreetcn.com/articles/3764793",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时52分 ~ 17时53分]"
         },
         {
           "title": "美制造业数据托底风险偏好，美股反弹、美元续涨，黄金跌5%，白银跌至80关口下方",
@@ -1230,7 +1315,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
         },
@@ -1265,6 +1350,17 @@
           "time_info": "[12时52分 ~ 17时53分]"
         },
         {
+          "title": "1 克黄金能打一张完整黄金婚书引热议，黄金的延展性到底有多强？金价飙升，这种轻量奢华蕴藏多大商业空间？",
+          "url": "https://www.zhihu.com/question/1999853061464614005",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时52分 ~ 18时51分]"
+        },
+        {
           "title": "金价暴跌后黄金市场挤满顾客",
           "url": "https://www.douyin.com/hot/2386891",
           "source": "抖音",
@@ -1275,17 +1371,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时46分 ~ 07时36分]"
-        },
-        {
-          "title": "1 克黄金能打一张完整黄金婚书引热议，黄金的延展性到底有多强？金价飙升，这种轻量奢华蕴藏多大商业空间？",
-          "url": "https://www.zhihu.com/question/1999853061464614005",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时52分 ~ 17时53分]"
         },
         {
           "title": "李大霄解读金价一夜V型反转",
@@ -1345,6 +1430,45 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "紧跟美债步伐 美国强劲经济数据推升英债收益率",
+          "url": "https://flash.jin10.com/detail/20260203161832959800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时49分"
+        },
+        {
+          "title": "欧元区债市静候央行决议 收益率随美债窄幅波动",
+          "url": "https://flash.jin10.com/detail/20260203161619392800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时49分"
+        },
+        {
+          "title": "汇丰：美债短端高收益债更具吸引力",
+          "url": "https://flash.jin10.com/detail/20260203181911181800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -1393,34 +1517,6 @@
           "source": "金十数据",
           "ranks": [
             3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "紧跟美债步伐 美国强劲经济数据推升英债收益率",
-          "url": "https://flash.jin10.com/detail/20260203161832959800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时49分"
-        },
-        {
-          "title": "欧元区债市静候央行决议 收益率随美债窄幅波动",
-          "url": "https://flash.jin10.com/detail/20260203161619392800",
-          "source": "金十数据",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 1,
