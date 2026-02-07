@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-07T18:34:19.387789+08:00",
-  "total_titles_processed": 1250,
+  "generated_at": "2026-02-07T19:29:06.640188+08:00",
+  "total_titles_processed": 1296,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 57,
+      "match_count": 61,
       "titles": [
+        {
+          "title": "特朗普：下周将再与伊朗谈判",
+          "url": "https://news.ifeng.com/c/8qXmcNhCn2E",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时43分 ~ 19时29分]"
+        },
         {
           "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
           "url": "https://news.ifeng.com/c/8qW59pknpCi",
@@ -33,17 +44,6 @@
           "time_info": "[00时55分 ~ 07时33分]"
         },
         {
-          "title": "特朗普：下周将再与伊朗谈判",
-          "url": "https://news.ifeng.com/c/8qXmcNhCn2E",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时43分 ~ 18时34分]"
-        },
-        {
           "title": "特朗普签署行政命令，对与伊朗有贸易往来的国家征收关税",
           "url": "https://www.cls.cn/detail/2283610",
           "source": "财联社热门",
@@ -54,22 +54,24 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时33分 ~ 18时34分]"
+          "appearance_count": 11,
+          "time_info": "[10时33分 ~ 19时29分]"
         },
         {
-          "title": "美伊谈判前特朗普发李小龙视频",
-          "url": "https://www.douyin.com/hot/2391580",
-          "source": "抖音",
+          "title": "特朗普签署行政命令，对与伊朗有贸易往来的国家征收关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32556008",
+          "source": "澎湃新闻",
           "ranks": [
-            19,
-            17,
-            10,
-            14
+            14,
+            13,
+            12,
+            9,
+            6,
+            4
           ],
           "is_new": false,
           "appearance_count": 10,
-          "time_info": "[00时55分 ~ 07时33分]"
+          "time_info": "[12时43分 ~ 19时29分]"
         },
         {
           "title": "特朗普起诉美两部门索赔百亿美元，美财长：若胜诉，费用将由民众承担",
@@ -83,11 +85,12 @@
             13,
             10,
             8,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时33分 ~ 18时34分]"
+          "appearance_count": 11,
+          "time_info": "[10时33分 ~ 19时29分]"
         },
         {
           "title": "特朗普再谈格陵兰岛：丹麦手里有块“冰”，我们想买它！",
@@ -104,8 +107,22 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时33分 ~ 18时34分]"
+          "appearance_count": 11,
+          "time_info": "[10时33分 ~ 19时29分]"
+        },
+        {
+          "title": "美伊谈判前特朗普发李小龙视频",
+          "url": "https://www.douyin.com/hot/2391580",
+          "source": "抖音",
+          "ranks": [
+            19,
+            17,
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 07时33分]"
         },
         {
           "title": "特朗普是否参与了爱泼斯坦萝莉岛的犯罪行为？",
@@ -115,23 +132,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时33分 ~ 18时34分]"
-        },
-        {
-          "title": "特朗普签署行政命令，对与伊朗有贸易往来的国家征收关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32556008",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13,
-            12,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时43分 ~ 18时34分]"
+          "appearance_count": 11,
+          "time_info": "[10时33分 ~ 19时29分]"
         },
         {
           "title": "奥巴马夫妇成了大猩猩？特朗普麻烦大了(图)",
@@ -245,6 +247,28 @@
           "time_info": "[12时43分 ~ 16时40分]"
         },
         {
+          "title": "尽管物价上涨 特朗普近来已20次声称通胀得到控制",
+          "url": "https://flash.jin10.com/detail/20260207191137605800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        },
+        {
+          "title": "特朗普在经济演讲中宣称通胀胜利近20次，尽管物价高企",
+          "url": "https://wallstreetcn.com/livenews/3051720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        },
+        {
           "title": "特朗普称美国与伊朗进行了“非常好的会谈”",
           "url": "https://wallstreetcn.com/livenews/3051669",
           "source": "华尔街见闻-快讯",
@@ -259,6 +283,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时33分 ~ 16时40分]"
+        },
+        {
+          "title": "贝森特和特朗普“表忠心”：澄清强美元政策，重申起诉沃什是玩笑，暗示鲍威尔失职",
+          "url": "https://wallstreetcn.com/articles/3765201",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时37分 ~ 19时29分]"
         },
         {
           "title": "特朗普称下周将再次与伊朗谈判",
@@ -290,6 +325,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时33分 ~ 15时37分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-07）",
+          "url": "https://flash.jin10.com/detail/20260207181103862800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
         },
         {
           "title": "美国财长贝森特：特朗普政府的政策显示了对强势美元的支持",
@@ -360,6 +406,17 @@
           "time_info": "[05时38分 ~ 07时33分]"
         },
         {
+          "title": "发奥巴马夫妇被P成猿猴视频翻车，特朗普：你们咋不关心选民欺诈",
+          "url": "https://news.ifeng.com/c/8qYEsnIMXAd",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时38分 ~ 19时29分]"
+        },
+        {
           "title": "泰森食品跌0.3%，报道称美国总统特朗普下令加大对阿根廷牛肉的进口力度。",
           "url": "https://wallstreetcn.com/livenews/3051588",
           "source": "华尔街见闻-快讯",
@@ -385,17 +442,6 @@
           "time_info": "[01时48分 ~ 03时01分]"
         },
         {
-          "title": "贝森特和特朗普“表忠心”：澄清强美元政策，重申起诉沃什是玩笑，暗示鲍威尔失职",
-          "url": "https://wallstreetcn.com/articles/3765201",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时37分 ~ 18时34分]"
-        },
-        {
           "title": "美国总统特朗普：道琼斯工业平均指数历史上首次突破50,000点。祝贺美国！",
           "url": "https://flash.jin10.com/detail/20260207034858058800",
           "source": "金十数据",
@@ -405,6 +451,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时41分 ~ 07时33分]"
+        },
+        {
+          "title": "道指突破5万大关！特朗普自夸：提前三年就完成目标，任期结束将站上10万点",
+          "url": "https://wallstreetcn.com/articles/3765222",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时34分 ~ 19时29分]"
         },
         {
           "title": "一名官员称，美国总统特朗普下令，从阿根廷进口的牛肉将增加三倍。（CBS）",
@@ -459,15 +517,15 @@
           "time_info": "[10时33分 ~ 13时49分]"
         },
         {
-          "title": "发奥巴马夫妇被P成猿猴视频翻车，特朗普：你们咋不关心选民欺诈",
-          "url": "https://news.ifeng.com/c/8qYEsnIMXAd",
-          "source": "凤凰网",
+          "title": "特朗普称道指将站上10万点",
+          "url": "https://www.toutiao.com/trending/7603935969964359722/",
+          "source": "今日头条",
           "ranks": [
-            6
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时38分 ~ 18时34分]"
+          "time_info": "[19时28分 ~ 19时29分]"
         },
         {
           "title": "美联储副主席杰斐逊：当前的货币政策对诸多风险准备就绪。 劳动力市场大致平衡，但仍然存在下行风险。 一旦（美国总统特朗普挑起的）关税的影响过去，通胀有望再次放缓。 强劲的生产力增速可能会推高中性利率。 生产力增速可能有助于遏制通胀。 我已经将自己对2026年经济增长速度的预期上修至2.2%。",
@@ -638,24 +696,13 @@
           "time_info": "[10时33分 ~ 12时43分]"
         },
         {
-          "title": "道指突破5万大关！特朗普自夸：提前三年就完成目标，任期结束将站上10万点",
-          "url": "https://wallstreetcn.com/articles/3765222",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时34分"
-        },
-        {
           "title": "特朗普删除将奥巴马P成猴子视频",
           "url": "https://www.toutiao.com/trending/7603630598771884073/",
           "source": "今日头条",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -740,7 +787,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋 AI AI AGNET",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "UP主联合自制AI春晚",
@@ -751,8 +798,36 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时43分 ~ 18时34分]"
+          "appearance_count": 10,
+          "time_info": "[12时43分 ~ 19时29分]"
+        },
+        {
+          "title": "一款AI工具“血洗”全球软件股 中国SaaS何去何从？",
+          "url": "https://www.cls.cn/detail/2283350",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时43分 ~ 19时29分]"
+        },
+        {
+          "title": "堪比“ChatGPT”时刻！SemiAnalysis深度解读：Claude Code将是AI “智能体”的转折点",
+          "url": "https://wallstreetcn.com/articles/3765171",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时33分 ~ 19时29分]"
         },
         {
           "title": "马斯克3小时深度访谈：三年内成本最低的AI在太空，Optimus是“无限印钞机”",
@@ -768,34 +843,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时55分 ~ 17时38分]"
-        },
-        {
-          "title": "堪比“ChatGPT”时刻！SemiAnalysis深度解读：Claude Code将是AI “智能体”的转折点",
-          "url": "https://wallstreetcn.com/articles/3765171",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时33分 ~ 18时34分]"
-        },
-        {
-          "title": "一款AI工具“血洗”全球软件股 中国SaaS何去何从？",
-          "url": "https://www.cls.cn/detail/2283350",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时43分 ~ 18时34分]"
         },
         {
           "title": "马斯克：如果没有AI和机器人技术，美国必破产",
@@ -814,6 +861,21 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时55分 ~ 16时40分]"
+        },
+        {
+          "title": "黄仁勋：只要AI公司能赚钱 就会“加倍、加倍、再加倍”地投入",
+          "url": "https://www.cls.cn/detail/2283577",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时33分 ~ 19时29分]"
         },
         {
           "title": "砸45亿抢AI超级入口，互联网大厂的红包大战怎么打",
@@ -838,20 +900,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时55分 ~ 06时33分]"
-        },
-        {
-          "title": "黄仁勋：只要AI公司能赚钱 就会“加倍、加倍、再加倍”地投入",
-          "url": "https://www.cls.cn/detail/2283577",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时33分 ~ 18时34分]"
         },
         {
           "title": "苹果计划允许第三方语音控制AI聊天机器人接入CarPlay",
@@ -887,6 +935,21 @@
           "time_info": "[04时41分 ~ 07时33分]"
         },
         {
+          "title": "“DeepSeek时刻”1年后，市场见证了“Claude冲击”",
+          "url": "https://wallstreetcn.com/articles/3765209",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时53分 ~ 19时29分]"
+        },
+        {
           "title": "AI引发风格轮动，对冲基金遭遇数月来表现最差的一天",
           "url": "https://wallstreetcn.com/livenews/3051672",
           "source": "华尔街见闻-快讯",
@@ -916,21 +979,6 @@
           "time_info": "[12时43分 ~ 17时38分]"
         },
         {
-          "title": "“DeepSeek时刻”1年后，市场见证了“Claude冲击”",
-          "url": "https://wallstreetcn.com/articles/3765209",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时53分 ~ 18时34分]"
-        },
-        {
           "title": "OpenAI创始人奥尔特曼：看到GPT-5.3-Codex版本如此受欢迎真是太好了。自最初的GPT-4发布以来，我们似乎还没有感受到对哪个模型如此兴奋过。",
           "url": "https://flash.jin10.com/detail/20260207004458170800",
           "source": "金十数据",
@@ -940,6 +988,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
+        },
+        {
+          "title": "中兴通讯、工行建行AIC入局，粤港澳基金完成500亿募资",
+          "url": "https://wallstreetcn.com/livenews/3051719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
         },
         {
           "title": "一图看懂：美股“AI烧钱”大战今年继续打响",
@@ -962,6 +1021,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "特斯拉计划在中国市场加大AI软硬件和能源领域投入",
+          "url": "https://wallstreetcn.com/livenews/3051701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            6,
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时40分 ~ 19时29分]"
         },
         {
           "title": "存储芯片概念股指数收涨超6.3%，泰瑞达涨超10%，西数涨超8%，AI软件指数本周仍跌约9.4%",
@@ -1005,19 +1078,6 @@
           "time_info": "[00时55分 ~ 03时44分]"
         },
         {
-          "title": "特斯拉计划在中国市场加大AI软硬件和能源领域投入",
-          "url": "https://wallstreetcn.com/livenews/3051701",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时40分 ~ 18时34分]"
-        },
-        {
           "title": "报道：苹果车载迎来战略转变，计划开放第三方语音AI助手",
           "url": "https://wallstreetcn.com/livenews/3051609",
           "source": "华尔街见闻-快讯",
@@ -1036,11 +1096,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时38分 ~ 18时34分]"
+          "appearance_count": 3,
+          "time_info": "[17时38分 ~ 19时29分]"
+        },
+        {
+          "title": "你认为AI会替代软件开发吗",
+          "url": "https://www.toutiao.com/trending/7603910615171301402/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时40分 ~ 19时29分]"
         },
         {
           "title": "AI 能救得了 SaaS 么？",
@@ -1080,16 +1154,16 @@
           "time_info": "[05时38分 ~ 07时33分]"
         },
         {
-          "title": "你认为AI会替代软件开发吗",
-          "url": "https://www.toutiao.com/trending/7603910615171301402/",
-          "source": "今日头条",
+          "title": "百度AI生成他人虚假犯罪信息案开庭，百度答辩：系AI幻觉，非故意所为",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32558072",
+          "source": "澎湃新闻",
           "ranks": [
-            19,
-            8
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时40分 ~ 18时34分]"
+          "appearance_count": 3,
+          "time_info": "[18时34分 ~ 19时29分]"
         },
         {
           "title": "据知情人士透露，OpenAI与G42洽谈向阿联酋提供特殊版本的GPT。 该模型将嵌入当地语言，政治前景，言论限制等方案。 这款微调的GPT用户将是阿联酋的政府部门。（Semafor）",
@@ -1146,17 +1220,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
-        },
-        {
-          "title": "百度AI生成他人虚假犯罪信息案开庭，百度答辩：系AI幻觉，非故意所为",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32558072",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时34分"
         },
         {
           "title": "至少6000亿美元！美国科技六巨头今年继续砸钱AI，但市场情绪却在分化",
@@ -1244,6 +1307,17 @@
           "time_info": "[00时55分 ~ 10时33分]"
         },
         {
+          "title": "伊朗外长：会谈是良好开端，最大挑战是不信任",
+          "url": "https://news.ifeng.com/c/8qXlsCyK0HX",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时43分 ~ 19时29分]"
+        },
+        {
           "title": "美伊核谈判在阿曼重启 伊朗武装部队今晚起将进入最高级别戒备状态",
           "url": "https://www.cls.cn/detail/2283240",
           "source": "财联社热门",
@@ -1254,17 +1328,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时55分 ~ 12时43分]"
-        },
-        {
-          "title": "伊朗外长：会谈是良好开端，最大挑战是不信任",
-          "url": "https://news.ifeng.com/c/8qXlsCyK0HX",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时43分 ~ 18时34分]"
         },
         {
           "title": "罕见！伊朗强硬派对美伊谈判态度克制",
@@ -1290,6 +1353,22 @@
           "time_info": "[00时55分 ~ 12时43分]"
         },
         {
+          "title": "伊美谈判“暂时”结束，伊朗外长称开局良好",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32555521",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            17,
+            14,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时48分 ~ 19时29分]"
+        },
+        {
           "title": "美国宣布制裁伊朗相关实体及个人",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%AE%A3%E5%B8%83%E5%88%B6%E8%A3%81%E4%BC%8A%E6%9C%97%E7%9B%B8%E5%85%B3%E5%AE%9E%E4%BD%93%E5%8F%8A%E4%B8%AA%E4%BA%BA",
           "source": "百度热搜",
@@ -1302,21 +1381,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时48分 ~ 07时33分]"
-        },
-        {
-          "title": "伊美谈判“暂时”结束，伊朗外长称开局良好",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32555521",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            17,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时48分 ~ 18时34分]"
         },
         {
           "title": "伊朗向地区外交官通报情况：会谈中未讨论德黑兰的导弹能力。",
@@ -1368,11 +1432,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时38分 ~ 18时34分]"
+          "appearance_count": 3,
+          "time_info": "[17时38分 ~ 19时29分]"
         },
         {
           "title": "伊朗：武装部队进入最高级别战备状态",
@@ -1399,6 +1464,19 @@
           "time_info": "[10时33分 ~ 13时49分]"
         },
         {
+          "title": "伊朗外长：下一轮核谈判日期尚未确定",
+          "url": "https://flash.jin10.com/detail/20260207165424168800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            20,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时38分 ~ 19时29分]"
+        },
+        {
           "title": "伊朗在谈判中表示绝不接受“零浓缩”",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%9C%A8%E8%B0%88%E5%88%A4%E4%B8%AD%E8%A1%A8%E7%A4%BA%E7%BB%9D%E4%B8%8D%E6%8E%A5%E5%8F%97%E2%80%9C%E9%9B%B6%E6%B5%93%E7%BC%A9%E2%80%9D",
           "source": "百度热搜",
@@ -1420,18 +1498,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时01分 ~ 03时44分]"
-        },
-        {
-          "title": "伊朗外长：下一轮核谈判日期尚未确定",
-          "url": "https://flash.jin10.com/detail/20260207165424168800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时38分 ~ 18时34分]"
         },
         {
           "title": "美国国务院宣布对伊朗相关实体及个人实施制裁",
@@ -1615,8 +1681,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时33分 ~ 18时34分]"
+          "appearance_count": 12,
+          "time_info": "[07时33分 ~ 19时29分]"
         },
         {
           "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
@@ -1629,8 +1695,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时33分 ~ 18时34分]"
+          "appearance_count": 12,
+          "time_info": "[07时33分 ~ 19时29分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -1642,11 +1708,12 @@
             7,
             8,
             9,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时55分 ~ 18时34分]"
+          "appearance_count": 21,
+          "time_info": "[00时55分 ~ 19时29分]"
         },
         {
           "title": "科技股抛压暂缓，美股期指集体转涨，英伟达结束五连跌，金银V形反弹，比特币止跌",
