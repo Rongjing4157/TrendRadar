@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-08T19:29:55.005989+08:00",
-  "total_titles_processed": 1085,
+  "generated_at": "2026-02-08T21:03:55.314560+08:00",
+  "total_titles_processed": 1174,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 AI AI AGNET",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "“DeepSeek时刻”1年后，市场见证了“Claude冲击”",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时39分 ~ 19时29分]"
+          "appearance_count": 24,
+          "time_info": "[00时39分 ~ 21时03分]"
         },
         {
           "title": "AI交易“被忽视的风险”：万一，天量资本开支“花不出去”",
@@ -42,8 +42,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时27分 ~ 19时29分]"
+          "appearance_count": 11,
+          "time_info": "[13时27分 ~ 21时03分]"
         },
         {
           "title": "UP主用AI做影游融合沉浸式科普",
@@ -53,11 +53,12 @@
             2,
             10,
             4,
-            5
+            5,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时27分 ~ 19时29分]"
+          "appearance_count": 11,
+          "time_info": "[13时27分 ~ 21时03分]"
         },
         {
           "title": "xAI联合创始人拟以5700万英镑购入伦敦豪宅顶层公寓",
@@ -101,8 +102,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时39分 ~ 19时29分]"
+          "appearance_count": 22,
+          "time_info": "[00时39分 ~ 21时03分]"
         },
         {
           "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
@@ -115,8 +116,23 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时44分 ~ 19时29分]"
+          "appearance_count": 8,
+          "time_info": "[15时44分 ~ 21时03分]"
+        },
+        {
+          "title": "人民日报：孩子用AI写作业，你怎么看？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32561384",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            12,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时59分 ~ 21时03分]"
         },
         {
           "title": "巨头砸钱6500亿加剧担忧，黄仁勋“灭火”：AI需求火爆，庞大支出合理、可持续",
@@ -128,20 +144,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时39分 ~ 05时34分]"
-        },
-        {
-          "title": "人民日报：孩子用AI写作业，你怎么看？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32561384",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时59分 ~ 19时29分]"
         },
         {
           "title": "中兴通讯、工行建行AIC入局，粤港澳基金完成500亿募资",
@@ -168,8 +170,31 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时41分 ~ 21时03分]"
+        },
+        {
+          "title": "下周重磅日程：美非农CPI齐发，中国通胀，AI、机器人春节大战",
+          "url": "https://wallstreetcn.com/articles/3765243",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
+          "title": "OpenAI第一款硬件要来了，但可能“没那么AI”?",
+          "url": "https://wallstreetcn.com/articles/3765244",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[16时41分 ~ 19时29分]"
+          "time_info": "[17时37分 ~ 21时03分]"
         },
         {
           "title": "“AI.com”域名卖出7000万美元",
@@ -182,18 +207,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时59分 ~ 16时41分]"
-        },
-        {
-          "title": "OpenAI第一款硬件要来了，但可能“没那么AI”?",
-          "url": "https://wallstreetcn.com/articles/3765244",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时37分 ~ 19时29分]"
         },
         {
           "title": "高盛解读本周市场焦点：“AI-SaaS”之争",
@@ -245,6 +258,18 @@
           "time_info": "[11时17分 ~ 15时00分]"
         },
         {
+          "title": "阿里千问撒外卖券，腾讯元宝发现金红包，如何看待大厂通过「请客」这一朴素方式推广最前沿的 AI 技术的策略？",
+          "url": "https://www.zhihu.com/question/2003429600861110745",
+          "source": "知乎",
+          "ranks": [
+            14,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时29分 ~ 21时03分]"
+        },
+        {
           "title": "百年康宁华丽转身：光纤终结二十年亏损，抱上Meta大腿成AI新贵！",
           "url": "https://wallstreetcn.com/articles/3765225",
           "source": "华尔街见闻",
@@ -254,6 +279,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时59分 ~ 15时00分]"
+        },
+        {
+          "title": "马斯克再发警告：若没有AI和机器人，美国1000%会走向破产",
+          "url": "https://www.cls.cn/detail/2283869",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时29分 ~ 21时03分]"
+        },
+        {
+          "title": "忙到深夜！“年轻人的新年货”提前集中释放 联合治疗、AI辅助有望成医美新趋势｜传真",
+          "url": "https://www.cls.cn/detail/2283872",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时29分 ~ 21时03分]"
         },
         {
           "title": "何同学谢谢AI请客",
@@ -266,39 +315,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时37分 ~ 17时38分]"
-        },
-        {
-          "title": "忙到深夜！“年轻人的新年货”提前集中释放 联合治疗、AI辅助有望成医美新趋势｜传真",
-          "url": "https://www.cls.cn/detail/2283872",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时29分"
-        },
-        {
-          "title": "马斯克再发警告：若没有AI和机器人，美国1000%会走向破产",
-          "url": "https://www.cls.cn/detail/2283869",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时29分"
-        },
-        {
-          "title": "阿里千问撒外卖券，腾讯元宝发现金红包，如何看待大厂通过「请客」这一朴素方式推广最前沿的 AI 技术的策略？",
-          "url": "https://www.zhihu.com/question/2003429600861110745",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时29分"
         },
         {
           "title": "吃上AI主理人的席了",
@@ -581,11 +597,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            12
+            12,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时35分 ~ 19时29分]"
+          "appearance_count": 3,
+          "time_info": "[18时35分 ~ 21时03分]"
         },
         {
           "title": "加拿大央行行长：若失去特朗普的CUSMA准入，加拿大经济将面临衰退",
@@ -602,6 +619,18 @@
           "time_info": "[11时17分 ~ 15时45分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-08）",
+          "url": "https://flash.jin10.com/detail/20260208181448181800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时29分 ~ 21时03分]"
+        },
+        {
           "title": "特朗普：需要通过竞争来打击散播虚假新闻的电视网络",
           "url": "https://flash.jin10.com/detail/20260207233303917800",
           "source": "金十数据",
@@ -612,17 +641,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时17分 ~ 13时27分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-08）",
-          "url": "https://flash.jin10.com/detail/20260208181448181800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时29分"
         },
         {
           "title": "民主党高层对特朗普爆粗口",
@@ -639,7 +657,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "伊美谈判“暂时”结束，伊朗外长称开局良好",
@@ -747,6 +765,22 @@
           "time_info": "[00时39分 ~ 07时37分]"
         },
         {
+          "title": "伊朗总统：与美国会谈是向前迈出的一步",
+          "url": "https://wallstreetcn.com/livenews/3051783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11,
+            15,
+            22,
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时45分 ~ 21时03分]"
+        },
+        {
           "title": "伊朗外长：进行铀浓缩是伊朗的权利",
           "url": "https://flash.jin10.com/detail/20260208154251792800",
           "source": "金十数据",
@@ -761,19 +795,15 @@
           "time_info": "[16时41分 ~ 19时29分]"
         },
         {
-          "title": "伊朗总统：与美国会谈是向前迈出的一步",
-          "url": "https://wallstreetcn.com/livenews/3051783",
+          "title": "伊朗武装部队总参谋长：没有兴趣发动地区战争",
+          "url": "https://wallstreetcn.com/livenews/3051828",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            11,
-            15,
-            22,
-            27
+            1
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时45分 ~ 19时29分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "伊朗总统：与美国会谈是向前迈出的一步",
@@ -790,6 +820,34 @@
           "time_info": "[15时45分 ~ 18时35分]"
         },
         {
+          "title": "伊朗外长：美国军事施压吓不倒伊朗",
+          "url": "https://wallstreetcn.com/livenews/3051796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            10,
+            17,
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时41分 ~ 21时03分]"
+        },
+        {
+          "title": "伊朗外长：伊方绝不接受“零浓缩铀”",
+          "url": "https://wallstreetcn.com/livenews/3051814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时35分 ~ 21时03分]"
+        },
+        {
           "title": "伊朗武装部队总参谋长：伊空军处于“最高战备状态”",
           "url": "https://flash.jin10.com/detail/20260208094240359800",
           "source": "金十数据",
@@ -804,32 +862,6 @@
           "time_info": "[11时17分 ~ 15时45分]"
         },
         {
-          "title": "伊朗外长：美国军事施压吓不倒伊朗",
-          "url": "https://wallstreetcn.com/livenews/3051796",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            10,
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时41分 ~ 19时29分]"
-        },
-        {
-          "title": "伊朗外长：伊方绝不接受“零浓缩铀”",
-          "url": "https://wallstreetcn.com/livenews/3051814",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时35分 ~ 19时29分]"
-        },
-        {
           "title": "美特使登航母，与击落伊朗无人机飞行员交流",
           "url": "https://news.ifeng.com/c/8qZP3seoZvF",
           "source": "凤凰网",
@@ -840,6 +872,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时16分 ~ 13时27分]"
+        },
+        {
+          "title": "伊朗外长：伊方绝不接受“零浓缩铀”",
+          "url": "https://flash.jin10.com/detail/20260208171910596800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时35分 ~ 21时03分]"
         },
         {
           "title": "伊朗外长：第二轮伊美谈判有望在未来几天内举行",
@@ -865,18 +910,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时39分 ~ 01时33分]"
-        },
-        {
-          "title": "伊朗外长：伊方绝不接受“零浓缩铀”",
-          "url": "https://flash.jin10.com/detail/20260208171910596800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时35分 ~ 19时29分]"
         }
       ]
     },
@@ -946,11 +979,12 @@
             7,
             8,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时39分 ~ 19时29分]"
+          "appearance_count": 24,
+          "time_info": "[00时39分 ~ 21时03分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -975,11 +1009,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时35分 ~ 19时29分]"
+          "appearance_count": 3,
+          "time_info": "[18时35分 ~ 21时03分]"
         }
       ]
     }
